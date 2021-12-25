@@ -26,6 +26,7 @@ old_kp, old_ki, old_kd, _, _ = steer.control.pid()
 steer.control.pid(kp=old_kp*4, kd=old_kd*0.4)
 steertarget = 0
 steermode = 0
+drive_speed = 0
 remote.light.on(Color.RED)
 print('AGRESSIVE MODE')
 
