@@ -1,6 +1,3 @@
-# Remote is currently in beta. This program only works with firmware
-# installed from <https://beta.pybricks.com>
-
 # Port D Lego 88014 XL Motor (for driving)
 # Port B Lego 22169 L Motor (servo mode for steering)
 
